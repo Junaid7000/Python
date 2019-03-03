@@ -1,5 +1,5 @@
 '''
-    This Script is used to Send mail to any given email adress using python's SMTPlib (Simply mail transfer protocol).
+    This Script is used to Send mail to any given email adress using python's SMTPlib (Simple mail transfer protocol).
     User can add attachments like screenshot
 
     Author:   junaid shaikh
